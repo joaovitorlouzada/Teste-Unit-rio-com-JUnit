@@ -1,0 +1,5 @@
+package enumerados;
+
+public enum StatusVenda {
+	ABERTURA, INICIANDO, REGISTRANDO, PROCESSANDO,IMPRIMINDO, FINALIZANDO;
+}
